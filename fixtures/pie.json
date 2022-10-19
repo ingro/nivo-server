@@ -1,0 +1,48 @@
+{
+    "width": 800,
+    "height": 800,
+    "margin": {
+        "top": 40,
+        "right": 80,
+        "bottom": 80,
+        "left": 80
+    },
+    "startAngle": 0,
+    "endAngle": 360,
+    "sortByValue": false,
+    "innerRadius": 0.5,
+    "padAngle": 0.7,
+    "cornerRadius": 3,
+    "fit": true,
+    "colors": {
+        "scheme": "nivo"
+    },
+    "borderWidth": 1,
+    "borderColor": {
+        "from": "color",
+        "modifiers": [
+            [
+                "darker",
+                0.2
+            ]
+        ]
+    },
+    "enableArcLinkLabels": true,
+    "arcLinkLabel": "id",
+    "arcLinkLabelsSkipAngle": 10,
+    "arcLinkLabelsTextOffset": 6,
+    "arcLinkLabelsTextColor": "#333333",
+    "arcLinkLabelsOffset": 0,
+    "arcLinkLabelsDiagonalLength": 16,
+    "arcLinkLabelsStraightLength": 24,
+    "arcLinkLabelsThickness": 1,
+    "arcLinkLabelsColor": {
+        "from": "color"
+    },
+    "enableArcLabels": true,
+    "arcLabel": "value",
+    "arcLabelsRadiusOffset": 0.5,
+    "arcLabelsSkipAngle": 10,
+    "arcLabelsTextColor": "#333333",
+    "data": "[\n  {\n    \"id\": \"python\",\n    \"label\": \"python\",\n    \"value\": 342,\n    \"color\": \"hsl(128, 70%, 50%)\"\n  },\n  {\n    \"id\": \"make\",\n    \"label\": \"make\",\n    \"value\": 69,\n    \"color\": \"hsl(62, 70%, 50%)\"\n  },\n  {\n    \"id\": \"haskell\",\n    \"label\": \"haskell\",\n    \"value\": 352,\n    \"color\": \"hsl(249, 70%, 50%)\"\n  },\n  {\n    \"id\": \"hack\",\n    \"label\": \"hack\",\n    \"value\": 319,\n    \"color\": \"hsl(334, 70%, 50%)\"\n  },\n  {\n    \"id\": \"go\",\n    \"label\": \"go\",\n    \"value\": 367,\n    \"color\": \"hsl(152, 70%, 50%)\"\n  },\n  {\n    \"id\": \"scala\",\n    \"label\": \"scala\",\n    \"value\": 264,\n    \"color\": \"hsl(13, 70%, 50%)\"\n  },\n  {\n    \"id\": \"stylus\",\n    \"label\": \"stylus\",\n    \"value\": 166,\n    \"color\": \"hsl(91, 70%, 50%)\"\n  },\n  {\n    \"id\": \"php\",\n    \"label\": \"php\",\n    \"value\": 385,\n    \"color\": \"hsl(143, 70%, 50%)\"\n  },\n  {\n    \"id\": \"rust\",\n    \"label\": \"rust\",\n    \"value\": 80,\n    \"color\": \"hsl(118, 70%, 50%)\"\n  },\n  {\n    \"id\": \"erlang\",\n    \"label\": \"erlang\",\n    \"value\": 456,\n    \"color\": \"hsl(347, 70%, 50%)\"\n  },\n  {\n    \"id\": \"java\",\n    \"label\": \"java\",\n    \"value\": 49,\n    \"color\": \"hsl(339, 70%, 50%)\"\n  },\n  {\n    \"id\": \"lisp\",\n    \"label\": \"lisp\",\n    \"value\": 115,\n    \"color\": \"hsl(212, 70%, 50%)\"\n  }\n]"
+}
